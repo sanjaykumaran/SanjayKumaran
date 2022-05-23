@@ -1,8 +1,9 @@
 ### Hi there 👋
 I'm Sanjay Kumaran (He/Him)
 
-- I love to solve problems with code
+- I love to solve problems with code ✨
 
+📫- sanjaykumaran88@gmail.com
 
 <!--
 **sanjaykumaran/SanjayKumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
